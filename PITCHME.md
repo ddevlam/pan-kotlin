@@ -3,7 +3,7 @@
 ---?color=linear-gradient(100deg, white 50%, #e41b40 50%)
 @title[Danny de Vlam]
 
-@snap[west text-white span-45]
+@snap[west text-black span-45]
 @ul[split-screen-list text-08](false)
 - Software Developer
 - Master of Computer Science
@@ -13,7 +13,7 @@
 @snapend
 
 @snap[east span-40 text-center]
-![split-screen-img span-45](assets/img/danny.png)
+![split-screen-img span-40](assets/img/danny.png)
 @snapend
 
 @snap[south-east text-white]
