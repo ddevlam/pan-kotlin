@@ -21,5 +21,5 @@
 @snap[south span-100 text-white]
 Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
-
+ 
 ---
