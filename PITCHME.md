@@ -6,13 +6,13 @@
 @snap[west text-black span-45]
 @ul[split-screen-list text-08](false)
 - Software Developer
-- Master of Computer Science
 - 34 Years old
-- Maried, 2 kids
+- Married, 2 kids
+- Coding is fun
 @ulend
 @snapend
 
-@snap[east span-40 text-center]
+@snap[east span-40]
 ![split-screen-img span-40](assets/img/danny.png)
 @snapend
 
