@@ -4,11 +4,11 @@
 @snap[west span-40 text-center]
 ### Danny de Vlam
 * 34 jaar oud
-* Getrouwd met Desiree  
+* Getrouwd
+    * Desiree  
 * 2 Kids
     * Devon
     * Delphie
-* 20+ Jaar programmeren
 * Malmberg
 @snapend
 
