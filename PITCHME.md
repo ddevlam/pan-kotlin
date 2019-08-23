@@ -1,7 +1,7 @@
 # Kotlin in an evening
 
 ---?color=linear-gradient(90deg, white 50%, #e41b40 50%)
-@snap[west span-60 text-center]
+@snap[west span-60 text-left]
 ## Danny de Vlam
 * 34 jaar oud
 * Getrouwd met Desiree  
