@@ -1,8 +1,7 @@
 # Kotlin in an evening
 
----?color=linear-gradient(90deg, #e41b40 50%, white 50%)
-
-@snap[west span-50]
+---?color=linear-gradient(90deg, white 50%, #e41b40 50%)
+@snap[west span-40]
 ## Danny de Vlam
 * 34 jaar oud
 * Getrouwd met Desiree  
@@ -11,15 +10,9 @@
     * Delphie
 * 20+ Jaar programeren / bezig met IT
 * Momenteel bij Malmberg
-
 @snapend
-
-@snap[east span-50]
+@snap[east span-40]
 ![](assets/img/danny.png)
 @snapend
 
-@snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
- 
 ---
