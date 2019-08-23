@@ -1,17 +1,17 @@
 # Kotlin in an evening
 
 ---?color=linear-gradient(100deg, white 50%, #e41b40 50%)
-@snap[west span-40 -center]
+@snap[west]
 ### Danny de Vlam
-* 34 jaar oud
-* Getrouwd met Desiree  
-* 2 Kids
-    * Devon
-    * Delphie
-* 20+ Jaar programmeren
-* Malmberg
+@ul
+- 34 jaar oud
+- Getrouwd met Desiree  
+- 2 Kids
+- 20+ Jaar programmeren
+- Malmberg
+@ulend
 @snapend
-@snap[east span-40 text-center]
+@snap[east]
 ![](assets/img/danny.png)
 @snapend
 
