@@ -706,7 +706,8 @@ operator fun minus(age: Int):Person = Person(this.name, this.age - age)
 // After all this, it's finally time to do some coding.
 // You can;
 // - Check out the links below to get started
-// - Migrate some code from your project 
+// - Migrate some code from your project
+// - Check out this project for an example on how to combine Java and Kotlin 
 
 // https://play.kotlinlang.org
 // https://play.kotlinlang.org/hands-on/overview
