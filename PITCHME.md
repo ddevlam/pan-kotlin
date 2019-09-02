@@ -355,7 +355,7 @@ open class MyClass: MyInterface {
 }
 
 class MyChild: MyClass() {
-    override fun foo() {} // This will give an error
+    override fun notOverridable() = "" // This will give an error
 
     override fun overridable() = "This is still possible"
 }
